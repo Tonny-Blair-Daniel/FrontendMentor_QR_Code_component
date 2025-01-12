@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://tonny-blair-daniel.github.io/FrontendMentor_QR_Code_component/)
 ##process
 ### Built with
 
@@ -48,5 +48,5 @@ I learned about working with the media querie which was challenging before and f
 
 ## Author
 
-- Website - [Tonny Blair](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername
+- Website - [Tonny Blair](https://tonny-blair-daniel.github.io/FrontendMentor_QR_Code_component/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
